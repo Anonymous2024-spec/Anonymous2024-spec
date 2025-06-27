@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Frontend Developer** with experience in **[HTML, CSS, Boostrap, Javascript, React]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Frontend Developer** with experience in **HTML, CSS, Boostrap, Javascript, React**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Nodejs, Typescript**
 - 🔭 Working on: **AirBnb Clone Project, Events website**
@@ -26,18 +26,18 @@ I'm a passionate **Frontend Developer** with experience in **[HTML, CSS, Boostra
 
 ### [airbnb-clone-project](https://github.com/Anonymous2024-spec/airbnb-clone-project)
 
-*![Project 1 Screenshot](project_1_screenshot_url)*
+*!Project 1 Screenshot* *project_1_screenshot_url*
 
 **AirBnB** is a **platform, focuses on enabling users to browse property listings, view details, and make bookings. This project includes both frontend and backend development, emphasizing responsive UI, secure checkout, and a seamless booking experience.**
 
 **Build a responsive and functional web application,
- Implement component-based frontend using React** built with **HMTL, CSS, React**. This project demonstrates my ability to **Implement UI components, connect frontend to backend, ensure responsiveness**. You can check out the repository [here](https://github.com/Anonymous2024-spec/airbnb-clone-project).
+ Implement component-based frontend using React** built with **HMTL, CSS, React**. This project demonstrates my ability to **Implement UI components, connect frontend to backend, ensure responsiveness**. You can check out the repository here(https://github.com/Anonymous2024-spec/airbnb-clone-project).
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(https://myportfolio-site-two.netlify.app/)
-- **[LinkedIn]**("https://linkedin.com/in/shifah naana/)
-- **[Twitter]**(https://x.com/NShifah85284)
+- **Personal Website / Blog**(https://myportfolio-site-two.netlify.app/)
+- **LinkedIn**("https://linkedin.com/in/shifah naana/)
+- **Twitter**(https://x.com/NShifah85284)
 
 
 
