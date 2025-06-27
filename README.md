@@ -1,25 +1,49 @@
-<h1 align="center">Hi 👋, I'm Shifah Naana</h1>
-<h3 align="center">A passionate Software developer from Uganda</h3>
+# Hi there, I'm Shifah Naana! 👋
 
-- 🔭 I’m currently working on **React Applications with Python**
+![Banner Image]([your_banner_image_url_here](https://www.istockphoto.com/photo/green-digital-data-lights-technology-background-gm2162568511-582953842?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbanner-image-with-lines-of-programming-languages&utm_medium=affiliate&utm_source=unsplash&utm_term=banner+image+with+lines+of+programming+languages%3A%3A%3A))
 
-- 🌱 I’m currently learning **Python,MongoDB**
+## About Me 🚀
 
-- 👨‍💻 All of my projects are available at [https://3d-profile-website.netlify.app/](https://3d-profile-website.netlify.app/)
+I'm a passionate **Frontend Developer** with experience in **[HTML, CSS, Boostrap, Javascript, React]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 💬 Ask me about **react,PHP**
+- 🌱 Currently learning: **[Nodejs, Typescript]**
+- 🔭 Working on: **[AirBnb Clone Project, Events website]**
+- 🌍 Languages: **[English, Luganda, Arabic]**
+- 📫 How to reach me: **[nanashifah2@gmail.com]**
+- ⚡ Fun fact: **[Reading fiction increases empathy]**
 
-- 📫 How to reach me **nanashifah2@gmail.com**
+## My Skills 🧠
 
-- ⚡ Fun fact **I think i am funny**
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shifah naana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shifah naana" height="30" width="40" /></a>
-</p>
+*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## Featured Projects 💻
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonymous2024-spec&show_icons=true&locale=en&layout=compact" alt="anonymous2024-spec" /></p>
+### [airbnb-clone-project](https://github.com/Anonymous2024-spec/airbnb-clone-project)
+
+![Project 1 Screenshot](project_1_screenshot_url)
+
+**AirBnB** is a **platform, focuses on enabling users to browse property listings, view details, and make bookings. This project includes both frontend and backend development, emphasizing responsive UI, secure checkout, and a seamless booking experience.**
+
+**Build a responsive and functional web application,
+ Implement component-based frontend using React** built with **HMTL, CSS, React**. This project demonstrates my ability to **Implement UI components, connect frontend to backend, ensure responsiveness**. You can check out the repository [here](https://github.com/Anonymous2024-spec/airbnb-clone-project).
+
+### [Project 2 Title](project_2_link)
+
+![Project 2 Screenshot](project_2_screenshot_url)
+
+**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+
+## Get in Touch 📬
+
+- **[Personal Website / Blog]**(https://myportfolio-site-two.netlify.app/)
+- **[LinkedIn]**("https://linkedin.com/in/shifah naana/)
+- **[Twitter]**(https://x.com/NShifah85284)
+
+
 
