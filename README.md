@@ -1,6 +1,6 @@
 # Hi there, I'm Shifah Naana! 👋
 
-![Banner Image](https://i.pinimg.com/736x/ff/8d/a6/ff8da65d709e100b7ccb38b136cb373f.jpg)
+![Banner Image](https://i.pinimg.com/originals/da/79/68/da7968c54b12ba7ebf7dfd70dd1faaf2.gif)
 
 ## About Me 🚀
 
