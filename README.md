@@ -1,6 +1,6 @@
 # Hi there, I'm Shifah Naana! 👋
 
-![Banner Image](https://www.istockphoto.com/photo/green-digital-data-lights-technology-background-gm2162568511-582953842?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbanner-image-with-lines-of-programming-languages&utm_medium=affiliate&utm_source=unsplash&utm_term=banner+image+with+lines+of+programming+languages%3A%3A%3A))
+![Banner Image](https://media.istockphoto.com/id/2162568511/photo/green-digital-data-lights-technology-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=_H93P2g3OlShKOPwfNzlKEYIWeK-vKj03BuVyGXvwGU=)
 
 ## About Me 🚀
 
