@@ -1,6 +1,6 @@
 # Hi there, I'm Shifah Naana! 👋
 
-![Banner Image](https://media.istockphoto.com/id/2162568511/photo/green-digital-data-lights-technology-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=_H93P2g3OlShKOPwfNzlKEYIWeK-vKj03BuVyGXvwGU=)
+![Banner Image](https://images.unsplash.com/photo-1611857795275-0f9eac151596?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## About Me 🚀
 
@@ -19,8 +19,6 @@ I'm a passionate **Frontend Developer** with experience in **HTML, CSS, Boostrap
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
