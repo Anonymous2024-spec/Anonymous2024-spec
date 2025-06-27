@@ -1,16 +1,16 @@
 # Hi there, I'm Shifah Naana! 👋
 
-![Banner Image]([your_banner_image_url_here](https://www.istockphoto.com/photo/green-digital-data-lights-technology-background-gm2162568511-582953842?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbanner-image-with-lines-of-programming-languages&utm_medium=affiliate&utm_source=unsplash&utm_term=banner+image+with+lines+of+programming+languages%3A%3A%3A))
+![Banner Image](https://www.istockphoto.com/photo/green-digital-data-lights-technology-background-gm2162568511-582953842?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbanner-image-with-lines-of-programming-languages&utm_medium=affiliate&utm_source=unsplash&utm_term=banner+image+with+lines+of+programming+languages%3A%3A%3A))
 
 ## About Me 🚀
 
 I'm a passionate **Frontend Developer** with experience in **[HTML, CSS, Boostrap, Javascript, React]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Nodejs, Typescript]**
-- 🔭 Working on: **[AirBnb Clone Project, Events website]**
-- 🌍 Languages: **[English, Luganda, Arabic]**
-- 📫 How to reach me: **[nanashifah2@gmail.com]**
-- ⚡ Fun fact: **[Reading fiction increases empathy]**
+- 🌱 Currently learning: **Nodejs, Typescript**
+- 🔭 Working on: **AirBnb Clone Project, Events website**
+- 🌍 Languages: **English, Luganda, Arabic**
+- 📫 How to reach me: **nanashifah2@gmail.com**
+- ⚡ Fun fact: **Reading fiction increases empathy**
 
 ## My Skills 🧠
 
@@ -26,18 +26,12 @@ I'm a passionate **Frontend Developer** with experience in **[HTML, CSS, Boostra
 
 ### [airbnb-clone-project](https://github.com/Anonymous2024-spec/airbnb-clone-project)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+*![Project 1 Screenshot](project_1_screenshot_url)*
 
 **AirBnB** is a **platform, focuses on enabling users to browse property listings, view details, and make bookings. This project includes both frontend and backend development, emphasizing responsive UI, secure checkout, and a seamless booking experience.**
 
 **Build a responsive and functional web application,
  Implement component-based frontend using React** built with **HMTL, CSS, React**. This project demonstrates my ability to **Implement UI components, connect frontend to backend, ensure responsiveness**. You can check out the repository [here](https://github.com/Anonymous2024-spec/airbnb-clone-project).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
